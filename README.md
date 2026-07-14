@@ -79,6 +79,8 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 <tr>
 <td align="center" width="50%">
 
+<br><br>
+
 <strong>Languages</strong>
 
 <br><br>
