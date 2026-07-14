@@ -1,12 +1,12 @@
 <div align="center">
 
-# MEET MISTRY
+# Meet Mistry (Zarc)
 
-### Full-Stack Developer · Product Builder · Electronics Engineer
+`FULL-STACK DEVELOPER` · `PRODUCT BUILDER` · `ELECTRONICS ENGINEER`
 
-**Building ideas into software — from interface to infrastructure.**
+I build software for problems I can't stop thinking about.
 
-`WEB`　·　`MOBILE`　·　`DESKTOP`　·　`BACKEND`
+`WEB`　·　`MOBILE`　·　`DESKTOP`　·　`BACKEND` ·　`EXPERIMENTS`
 
 <br>
 
@@ -29,7 +29,8 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 ### 🛠️ I Build
 
 `Full-Stack Apps` · `Backend Systems` · `Mobile & Desktop Apps`
-`Automation` · `Developer Tools` · `Experimental Products`
+`Automation & Productivity Tools` · `Developer Tools` · `Experimental Products`
+`Occasionally... things involving actual circuits ⚡`
 
 ---
 
@@ -48,16 +49,18 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 `Git` · `Docker` · `Linux`
 
 **Beyond Software ⚡**
-`Electronics` · `PCB Design` · `Embedded Systems`
+`Electronics` · `Hardware` · `IoT`
 
 ---
 
 ### 🔬 Currently
 
 ```text id="83714"
-building  → things I want to exist
-learning  → whatever the next build requires
-exploring → software, systems, and everything between
+BUILDING  → things I want to exist
+LEARNING  → better ways to engineer them
+BREAKING  → things that worked five minutes ago
+FIXING    → the things I broke
+REPEATING indefinitely
 ```
 
 ---
