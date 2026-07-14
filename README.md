@@ -6,7 +6,11 @@
 
 I build software for problems I can't stop thinking about.
 
-`WEB`　·　`MOBILE`　·　`DESKTOP`　·　`BACKEND` ·　`EXPERIMENTS`
+<img src="https://img.shields.io/badge/WEB-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MOBILE-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DESKTOP-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BACKEND-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EXPERIMENTS-18181B?style=for-the-badge" />
 
 <br>
 
@@ -28,8 +32,16 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 
 ### 🛠️ I Build
 
-`Full-Stack Apps` · `Backend Systems` · `Mobile & Desktop Apps`
-`Automation & Productivity Tools` · `Developer Tools` · `Experimental Products`
+<img src="https://img.shields.io/badge/Full--Stack_Apps-18181B?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend_Systems-18181B?style=flat-square" />
+<img src="https://img.shields.io/badge/Mobile_&_Desktop_Apps-18181B?style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/Automation_&_Productivity_Tools-18181B?style=flat-square" />
+<img src="https://img.shields.io/badge/Developer_Tools-18181B?style=flat-square" />
+<img src="https://img.shields.io/badge/Experimental_Products-18181B?style=flat-square" />
+
+<br>
+
 `Occasionally... things involving actual circuits ⚡`
 
 ---
@@ -37,25 +49,40 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 ### ⚙️ Stack
 
 **Languages**
-`Python` · `TypeScript` · `JavaScript` · `Dart`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,dart" />
+</p>
 
 **Frontend**
-`React` · `Flutter` · `HTML` · `CSS`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css" />
+</p>
 
 **Backend**
-`Node.js` · `NestJS` · `PostgreSQL`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" />
+</p>
 
 **Tools**
-`Git` · `Docker` · `Linux`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+</p>
 
 **Beyond Software ⚡**
-`Electronics` · `Hardware` · `IoT`
+
+<img src="https://img.shields.io/badge/Electronics-18181B?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardware-18181B?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT-18181B?style=for-the-badge&logo=arduino&logoColor=white" />
 
 ---
 
 ### 🔬 Currently
 
-```text id="83714"
+```text
 BUILDING  → things I want to exist
 LEARNING  → better ways to engineer them
 BREAKING  → things that worked five minutes ago
