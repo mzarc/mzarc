@@ -2,7 +2,7 @@
 
 # Meet Mistry (Zarc)
 
-`FULL-STACK DEVELOPER` · `PRODUCT BUILDER` · `ELECTRONICS ENGINEER`
+### Full-Stack Developer · Product Builder · Electronics Engineer
 
 I build software for problems I can't stop thinking about.
 
