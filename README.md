@@ -73,52 +73,85 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 
 ### ⚙️ Stack
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**Languages**
+<strong>Languages</strong>
 
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,dart" />
 
-</td>
-<td width="50%" valign="top">
-
-**Frontend**
-
 <br>
+
+<sub>Python · TypeScript · JavaScript · Dart</sub>
+
+</td>
+<td align="center" width="50%">
+
+<strong>Frontend</strong>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=react,flutter,html,css" />
 
+<br>
+
+<sub>React · Flutter · HTML · CSS</sub>
+
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**Backend**
+<strong>Backend</strong>
 
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" />
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-**Tools**
+<sub>Node.js · NestJS · PostgreSQL</sub>
+
+</td>
+<td align="center" width="50%">
+
+<strong>Tools</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+<sub>Git · Docker · Linux</sub>
 
 </td>
 </tr>
 </table>
 
-**Beyond Software ⚡**
+<br>
 
-<img src="https://img.shields.io/badge/Electronics-18181B?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Hardware-18181B?style=for-the-badge&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/IoT-18181B?style=for-the-badge&logo=arduino&logoColor=white" />
+### Beyond Software ⚡
+
+<br>
+
+<img src="https://img.shields.io/badge/ELECTRONICS-18181B?style=for-the-badge&logo=espressif&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/HARDWARE-18181B?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/IoT-18181B?style=for-the-badge&logo=arduino&logoColor=white" />
+
+<br><br>
+
+<sub><b>Software is the playground. Engineering is the foundation.</b></sub>
+
+</div>
 
 ---
 
