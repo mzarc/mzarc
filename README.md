@@ -32,6 +32,8 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 
 ### 🛠️ I Build
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="33%">
@@ -62,8 +64,6 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 `Occasionally... things involving actual circuits ⚡`
 
