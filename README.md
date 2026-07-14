@@ -34,42 +34,40 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### ◈ Applications
-
-`Full-Stack Apps`
-`Mobile & Desktop Apps`
-
+<td align="center" width="33%">
+<h3>◈</h3>
+<b>Full-Stack Apps</b>
 </td>
-<td width="50%" valign="top">
-
-#### ◇ Systems
-
-`Backend Systems`
-`Developer Tools`
-
+<td align="center" width="33%">
+<h3>⌘</h3>
+<b>Backend Systems</b>
+</td>
+<td align="center" width="33%">
+<h3>▣</h3>
+<b>Mobile & Desktop Apps</b>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### ⚙ Automation
-
-`Automation & Productivity Tools`
-
+<td align="center" width="33%">
+<h3>⚙</h3>
+<b>Automation & Productivity Tools</b>
 </td>
-<td width="50%" valign="top">
-
-#### ✦ Experiments
-
-`Experimental Products`
-
+<td align="center" width="33%">
+<h3>⌁</h3>
+<b>Developer Tools</b>
+</td>
+<td align="center" width="33%">
+<h3>✦</h3>
+<b>Experimental Products</b>
 </td>
 </tr>
 </table>
 
+<div align="center">
+
 `Occasionally... things involving actual circuits ⚡`
+
+</div>
 
 ---
 
@@ -120,7 +118,7 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 
 **Beyond Software ⚡**
 
-<img src="https://img.shields.io/badge/Electronics-18181B?style=for-the-badge&logo=espressif&logoColor=white" /> · <img src="https://img.shields.io/badge/Hardware-18181B?style=for-the-badge&logo=raspberrypi&logoColor=white" /> · <img src="https://img.shields.io/badge/IoT-18181B?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Electronics-18181B?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Hardware-18181B?style=for-the-badge&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/IoT-18181B?style=for-the-badge&logo=arduino&logoColor=white" />
 
 ---
 
