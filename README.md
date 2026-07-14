@@ -77,75 +77,49 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-<strong>Languages</strong>
-
+<td width="50%" align="center">
+<h3>⌨️ Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,ts,js,dart&theme=dark" />
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,dart" />
-
-<br>
-
 <sub>Python · TypeScript · JavaScript · Dart</sub>
-
 </td>
-<td align="center" width="50%">
 
-<strong>Frontend</strong>
-
+<td width="50%" align="center">
+<h3>🖥️ Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css&theme=dark" />
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css" />
-
-<br>
-
 <sub>React · Flutter · HTML · CSS</sub>
-
 </td>
 </tr>
+</table>
 
+<table>
 <tr>
-<td align="center" width="50%">
-
-<strong>Backend</strong>
-
+<td width="50%" align="center">
+<h3>🗄️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres&theme=dark" />
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" />
-
-<br>
-
 <sub>Node.js · NestJS · PostgreSQL</sub>
-
 </td>
-<td align="center" width="50%">
 
-<strong>Tools</strong>
-
+<td width="50%" align="center">
+<h3>🔧 Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark" />
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=git,docker,linux" />
-
-<br>
-
 <sub>Git · Docker · Linux</sub>
-
 </td>
 </tr>
 </table>
 
 <br>
 
-### Beyond Software ⚡
+<h3>Beyond Software ⚡</h3>
 
-<br>
-
-<img src="https://img.shields.io/badge/ELECTRONICS-18181B?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/ELECTRONICS-18181B?style=for-the-badge&logo=espressif&logoColor=A78BFA" />
 &nbsp;
-<img src="https://img.shields.io/badge/HARDWARE-18181B?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/HARDWARE-18181B?style=for-the-badge&logo=raspberrypi&logoColor=84CC16" />
 &nbsp;
-<img src="https://img.shields.io/badge/IoT-18181B?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT-18181B?style=for-the-badge&logo=arduino&logoColor=38BDF8" />
 
 <br><br>
 
