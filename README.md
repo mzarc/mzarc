@@ -32,15 +32,42 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 
 ### 🛠️ I Build
 
-<img src="https://img.shields.io/badge/Full--Stack_Apps-18181B?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend_Systems-18181B?style=flat-square" />
-<img src="https://img.shields.io/badge/Mobile_&_Desktop_Apps-18181B?style=flat-square" />
-<br>
-<img src="https://img.shields.io/badge/Automation_&_Productivity_Tools-18181B?style=flat-square" />
-<img src="https://img.shields.io/badge/Developer_Tools-18181B?style=flat-square" />
-<img src="https://img.shields.io/badge/Experimental_Products-18181B?style=flat-square" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+#### ◈ Applications
+
+`Full-Stack Apps`
+`Mobile & Desktop Apps`
+
+</td>
+<td width="50%" valign="top">
+
+#### ◇ Systems
+
+`Backend Systems`
+`Developer Tools`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙ Automation
+
+`Automation & Productivity Tools`
+
+</td>
+<td width="50%" valign="top">
+
+#### ✦ Experiments
+
+`Experimental Products`
+
+</td>
+</tr>
+</table>
 
 `Occasionally... things involving actual circuits ⚡`
 
@@ -48,41 +75,58 @@ I build across the stack, explore beyond it, and learn whatever the next idea de
 
 ### ⚙️ Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dart" />
-</p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,dart" />
+
+</td>
+<td width="50%" valign="top">
 
 **Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css" />
-</p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" />
-</p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" />
+
+</td>
+<td width="50%" valign="top">
 
 **Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
-</p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+
+</td>
+</tr>
+</table>
 
 **Beyond Software ⚡**
 
-<img src="https://img.shields.io/badge/Electronics-18181B?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardware-18181B?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-18181B?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Electronics-18181B?style=for-the-badge&logo=espressif&logoColor=white" /> · <img src="https://img.shields.io/badge/Hardware-18181B?style=for-the-badge&logo=raspberrypi&logoColor=white" /> · <img src="https://img.shields.io/badge/IoT-18181B?style=for-the-badge&logo=arduino&logoColor=white" />
 
 ---
 
 ### 🔬 Currently
 
-```text
+```text id="n2f7ru"
 BUILDING  → things I want to exist
 LEARNING  → better ways to engineer them
 BREAKING  → things that worked five minutes ago
